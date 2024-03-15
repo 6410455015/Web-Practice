@@ -1,0 +1,45 @@
+.container{
+    display: grid;
+    grid-template-columns:250px 449px 1fr 200px;
+    grid-template-rows:250px 449px 200px;
+    grid-gap: 10px;
+}
+.lucky{
+    grid-column: 1/2;
+
+}
+.act1{
+    grid-column: 2/5;
+    background-color: #EAF2F5;
+}
+.space{
+    grid-column: 1/2;
+    background-color: #F7ECB5;
+}
+.iyla{
+    grid-column: 2/3;
+}
+.act2{
+    grid-column: 3/4;
+    background-color: #E3D2D2;
+}
+.sidebar-area{
+    grid-column: 4/5;
+    background-color: #F7ECB5;
+}
+.act3{
+    grid-column: 1/4;
+    background-color: #C9E2B3;
+}
+.simba{
+    grid-column: 4/5;
+}
+.site-footer{
+    grid-column: 1/5;
+    background-color: #000000;
+    color: #FFFFFF;
+    text-align: center ;
+}
+h2 , p {
+    padding: 0 20px ;
+}
