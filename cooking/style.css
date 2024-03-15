@@ -1,0 +1,28 @@
+body h1{
+    color: red;
+    border-bottom:1px orange solid ;
+}
+h1{
+    color: orange;
+    border-bottom:1px orange solid ;
+}
+
+body{
+    color: blue;
+    margin-left: 4em;
+    margin-right: 4em;
+    font-family: sans-serif;
+}
+
+h2{
+    color: orange;
+    margin-left: 100px;
+}
+p{
+
+    margin-left: 100px;
+}
+img{
+    float: right;
+    margin:0 12px ;
+}
